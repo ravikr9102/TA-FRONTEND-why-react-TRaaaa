@@ -58,15 +58,15 @@ html{
 }
 :root{
     --primary : #E54D38;
+    max-width: 1400px;
+    margin: 0 auto;
+    margin-left: 5rem;
 }
-
 .column{
     display: flex;
     flex-direction: column;
 }
 body{
-    display:  flex;
-    justify-content: center;
     min-height: 100vh;
     font-size: 1.6rem;
     font-family: 'Roboto', sans-serif;
@@ -90,7 +90,7 @@ header h2{
 }
 .image-container{
     position: relative;
-    width: 100%;
+    width: 70%;
 }
 .image-container img{
     width: 100%;
@@ -125,10 +125,10 @@ header h2{
 .post-information{
     padding: 1rem 2rem;
 }
-header h2{
+.header h2{
     font-weight: 900;
 }
-header h3{
+.header h3{
     font-size: 2rem;
     color: #E54D38;
     font-weight: 400;
@@ -144,4 +144,9 @@ article .description{
 }
 .additional-information span {
     margin-left: 2rem;
+}
+.main-card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
