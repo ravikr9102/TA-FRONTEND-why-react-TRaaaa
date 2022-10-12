@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header className="flex header">
-      <a className="logo" href="#">News</a>
+      <a className="logo" href="_#">News</a>
       <nav className="nav">
         <ul className="flex">
           <li>Home</li>

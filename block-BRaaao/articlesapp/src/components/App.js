@@ -1,6 +1,7 @@
 import Header from './Header';
 import Hero from './Hero';
 import Articles from './Articles';
+import Footer from './Footer';
 
 function App(props) {
   return (
@@ -8,6 +9,7 @@ function App(props) {
       <Header />
       <Hero />
       <Articles />
+      <Footer />
     </>
   );
 }
