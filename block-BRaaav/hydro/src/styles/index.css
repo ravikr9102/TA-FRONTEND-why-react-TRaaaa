@@ -369,7 +369,7 @@ progress::-webkit-progress-value {
 .about-img {
   position: absolute;
   width: 20%;
-  bottom: 0;
+  bottom: 25%;
 }
 
 /* Blog */
@@ -425,10 +425,10 @@ progress::-webkit-progress-value {
 .contact .btn {
   margin-top: 32px;
 }
-.map {
+.contact-thing {
   text-align: center;
 }
-.map iframe {
+.contact-thing iframe {
   width: 300px;
   height: 300px;
   border-radius: 50%;
