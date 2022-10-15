@@ -1,0 +1,14 @@
+/* My reset */
+body{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.color{
+    background-color: #A7F3D0;
+}
+.color-one{
+    background-color: #FECACA;
+}
+a{
+    text-decoration: none;
+}
