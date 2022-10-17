@@ -1,0 +1,35 @@
+.button--primary {
+    border:  2px solid transparent;
+}
+
+.button--secondary{
+    background: none;
+}
+
+.button--tertiary{
+    border: 2px solid transparent;
+    width: 120px;
+    padding: 10px 0px !important;
+    background: none;
+}
+
+/* Button Size Styles */
+.button--small{
+    padding: 8px 30px;
+    font-size: 0.8rem;
+}
+
+.button--medium{
+    padding: 10px 60px;
+    font-size: 1rem;
+}
+
+.button--large{
+    padding: 10px 80px;
+    font-size: 1.2rem;
+}
+
+button{
+    display: block;
+    margin: 1.5rem 0;
+}
