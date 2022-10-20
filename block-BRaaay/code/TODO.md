@@ -8,3 +8,4 @@
 ### Preview
 
 ![Color Pallet](./colors.png)
+

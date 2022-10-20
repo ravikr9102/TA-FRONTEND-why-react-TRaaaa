@@ -7,3 +7,4 @@ writeCode
 - `TODO.md` file contains the instruction to solve the exercise
 - Use the folder named `code` to keep the files used for creating the project
 - You can create any file you need
+
